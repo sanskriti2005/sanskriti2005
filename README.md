@@ -18,5 +18,9 @@ Welcome to my profile! (๑´>᎑<)~*
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskriti2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height=100/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskriti2005&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+</div>
+
 
 
