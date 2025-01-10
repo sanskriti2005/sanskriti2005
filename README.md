@@ -1,4 +1,4 @@
-## Hi there! I'm Sanskriti ヾ(｡✪ω✪｡)ｼ
+## ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Hi there! I'm Sanskriti ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
 Welcome to my profile! (๑´>᎑<)~*
 <!--
