@@ -2,24 +2,22 @@
 
 Welcome to my profile! (๑´>᎑<)~*
 
-## 🔥 Passionate Full Stack Developer | Frontend Enthusiast | Exploring Game Dev & ML  
+[//]: # (🔥 Passionate Full Stack Developer | Frontend Enthusiast | Exploring Game Dev & ML)
 
-I'm a **curious and creative developer** with a strong passion for building intuitive and impactful digital experiences. From **crafting seamless frontend interfaces** to **architecting scalable backends**, I love bringing ideas to life through **code**. Whether it's designing beautiful UIs, optimizing APIs, or experimenting with **machine learning** and **game development**, I'm always eager to explore new technologies and push my boundaries.
+[//]: # (I'm a curious and creative developer with a strong passion for building intuitive and impactful digital experiences.)
+[//]: # (From crafting seamless frontend interfaces to architecting scalable backends, I love bringing ideas to life through code.)
+[//]: # (Whether it's designing beautiful UIs, optimizing APIs, or experimenting with machine learning and game development,)
+[//]: # (I'm always eager to explore new technologies and push my boundaries.)
 
-### 🌱 Currently Learning
-- **Full Stack Development** (React, Express.js)
-- **Advanced Frontend Techniques** (State Management, Performance Optimization)
-- **Backend Systems & APIs**
-- **Machine Learning & AI Fundamentals**
-- **Game Development (for fun & creative exploration)**
 
-### 💡 What I Love
-- **Building user-friendly web apps with clean, responsive UI/UX**
-- **Creating scalable and efficient backend systems**
-- **Solving real-world problems through code and creative solutions**
-- **Breaking down complex concepts by experimenting and breaking things**
-- **Contributing to open-source projects & hackathons**
-- **Exploring emerging tech like AI & game engines**
+[//]: # (💡 What I Love)
+[//]: # (- Building user-friendly web apps with clean, responsive UI/UX)
+[//]: # (- Creating scalable and efficient backend systems)
+[//]: # (- Solving real-world problems through code and creative solutions)
+[//]: # (- Breaking down complex concepts by experimenting and breaking things)
+[//]: # (- Contributing to open-source projects & hackathons)
+[//]: # (- Exploring emerging tech like AI & game engines)
+
   
 
 <div align="center" style="display: flex; flex-direction: row; justify-content:center; align-items:center">
